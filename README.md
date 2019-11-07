@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Recipe React Demo App
 ## Available Scripts
+1. Clone
+### `git clone git@github.com:gech4me/recipe-app.git`
+2. Install dependency
+### `yarn install`
 
 In the project directory, you can run:
 
